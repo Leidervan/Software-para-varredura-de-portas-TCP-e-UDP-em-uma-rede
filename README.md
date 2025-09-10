@@ -1,7 +1,7 @@
 # Software-para-varredura-de-portas-TCP-e-UDP-em-uma-rede
 Atividade da disciplina de Tópicos Especiais em Tecnologia Dois - Desenvolver um software para realizar varredura de portas TCP e UDP em uma rede.
 
-# 🔍 Advanced Port Scanner Pro
+# 🔍 FuçaNet Scanner
 
 **Descrição**
 Ferramenta de varredura de portas TCP e UDP com interface gráfica (Tkinter), suporte a varredura multi-thread, captura simples de banner HTTP e exportação de resultados. Use apenas em redes/equipamentos que você tem permissão para testar.
